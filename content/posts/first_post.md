@@ -79,4 +79,5 @@ seo:
   - Any effective machine learning algorithm has an *inductive preference*.
   - every machine learning should be able to make heuristic selection and induction of hypotheses from a huge hypothesis space, and then form so-called **"knowledge"**.
   - Otherwise, machine learning algorithms are meaningless.
+- **NFL**
 
